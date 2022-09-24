@@ -1,5 +1,3 @@
-# text-editor
-
 # Text Editor 
 
 # github https://github.com/diegorodd/text-editor
